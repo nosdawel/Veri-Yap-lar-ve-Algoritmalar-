@@ -1,0 +1,17 @@
+Binary Search Tree Projesi
+
+A) [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Binary Search Tree algoritması elimizde bulunan veri dizisini sıralı olduğunu varsayar ve diziyi her seferinde ikiye bölerek ikili arama yapar. (Root belirlenir, roottan küçük olan elemanlar sol tarafa, roottan büyük olanlar sağ tarafa toplanır.)
+
+Root: 7
+
+                     7
+                   /   \ 
+                  5     8
+                 / \     \
+                1   6     9
+               / \
+              0   3 
+                 / \
+                2   4  
