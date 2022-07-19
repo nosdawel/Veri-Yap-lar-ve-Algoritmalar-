@@ -1,1 +1,2 @@
 # VeriYapilariveAlgoritmalar
+www.patika.dev
